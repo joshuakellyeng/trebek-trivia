@@ -1,5 +1,21 @@
+
+
 .flex {
 	display: flex;
 	flex-direction: column;
-  align-items: center;
+  	align-items: center;
+}
+
+.hide {
+	display: none;
+}
+
+.game {
+	padding: 2em;
+	background-color: #666;
+	height: 100vh;
+}
+
+.m-2 {
+	margin: 2em;
 }
